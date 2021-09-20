@@ -7,6 +7,7 @@ Categorize images into set of 5 classes comprising of : Healthy, Leaf Curl, Leaf
 This repository houses a custom CNN built to detect several diseases in plants from a single image. It achieves an overall accuracy of 86% and is trained upon 500 epochs using batch gradient descent and ADAM as the optimizer. It is a CNN > 20 layers each serving a unique purpose.
 
 ## Demo Link : 
+http://flaskapp-env.eba-hw5v8zfd.us-east-2.elasticbeanstalk.com/
 Click on the Link provided to look at the demo for the app.
 
 If the above link doesn't work clone the repo and guide to the current working directory and enter
